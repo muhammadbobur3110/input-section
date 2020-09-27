@@ -1,0 +1,398 @@
+.site-header {
+  max-width: 1240px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.site-header-top {
+  align-items: center;
+  display: flex;
+  text-align: center;
+}
+.currencies {
+  padding: 0%;
+  margin: 0%;
+  list-style-type: none;
+  display: flex;
+  margin-left: 17px;
+}
+.logo-img {
+  display: inline-block;
+  padding: 4px 7px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.logo {
+  display: block;
+}
+.currency {
+  list-style: none;
+  margin-right: 22px;
+}
+.site-header {
+  padding-top: 40px;
+  padding-bottom: 23px;
+  background-color: #F6F6F9;
+}
+.currency-icon {
+  color: #295093;
+  font-weight: 500;
+}
+
+.telegram-link {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin-left: auto;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #1E96C8;
+  color: #fff;
+  font-weight: 500;
+
+}
+.telegram-link-icon {
+  margin-right: 7px;
+}
+.telegram-link:hover {
+  background-color: orange;
+}
+
+.submit-button {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.input-search {
+  margin-left: 40px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+}
+
+.menu-bar {
+  background-color: white;
+}
+
+.menu-list {
+  list-style: none;
+  display: flex;
+  padding: 10px;
+}
+
+.menu-link {
+  color: #515151;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 50px;
+}
+
+.advertising {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 18px;
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.label-search {
+  margin-left: 130px;
+  min-width: 100px;
+  border: 1px solid floralwhite;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+.img-lupa {
+  padding: 2px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  width: 20px;
+  margin-left: 5px;
+}
+
+.language {
+  margin-left: 20px;
+  min-width: 100px;
+  border: 1px solid floralwhite;
+  padding: 4px;
+  border-radius: 5px;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.main {
+  width: 1240px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  background-color: white;
+}
+
+.inputs {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.input-types {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.input {
+  margin-bottom: 20px;
+  width: 600px;
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid lightblue;
+
+}
+
+.active {
+  width: 600px;
+  height: 307px;
+}
+
+.file-password {
+  width: 221px;
+  height: 40px;
+  margin-top: 20px;
+  border: 2px solid lightblue;
+  display: flex;
+  flex-direction: column;
+}
+
+.receive-button {
+  width: 221px;
+  height: 50px;
+  margin-top: 20px;
+  background: #295093;
+  border: 2px solid rgba(40, 81, 147, 0.54);
+  box-sizing: border-box;
+  border-radius: 5px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
+
+.contact {
+  padding: 10px;
+  margin-left: 90px;
+  margin-top: 65px;
+  width: 510px;
+  height: 280px;
+  background-color: white;
+  border: 2px solid #BCC3CD;
+
+  box-shadow: 0px 8px 9px rgba(57, 57, 57, 0.25);
+  border-radius: 5px
+}
+
+.small-logo {
+  margin-left: 150px;
+  margin-top: 20px;
+}
+
+.social-media-list {
+  margin-top: 21px;
+  padding: 0;
+  margin: 0;
+}
+
+.social-media-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.inside {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #888888;
+}
+
+.twitter {
+  margin-right: 13px;
+}
+
+.telegram {
+  align-items: center;
+  display: flex;
+  width: 150px;
+  height: 33px;
+  text-align: center;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #295091;
+  color: #fff;
+  font-weight: 500;
+}
+
+.trg-icon {
+  margin-left: 17px;
+}
+
+.play-market {
+  margin-right: 13px;
+}
+
+.internet {
+  text-decoration: none;
+}
+
+.site-footer {
+  max-width: 1350px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #295093;
+}
+
+.site-footer-top {
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 12px;
+  width: 1230px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  border-bottom: 4px solid #133C82;
+}
+
+.info-text {
+  margin-left: 230px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+
+}
+
+.logo-link{
+  width: 194px;
+  height: 38px;
+  background: #133C82;
+  border-radius: 5px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 19px;
+  text-decoration: none;
+}
+
+.logo-link h3 {
+  font-family: "Roboto", sans-serif;
+  margin-top: 10px;
+  padding: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+
+.telegram-icon {
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #295093;
+  background: #FFFFFF;
+  text-decoration: none;
+  margin-left: 17px;
+}
+.site-footer-text {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+  width: 365px;
+}
+
+.site-footer-bottom {
+  width: 1230px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.footer-section {
+  width: 365px;
+}
+
+.footer-section h3 {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.site-footer-bottom-list {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  width: 163px;
+  color: #FFFFFF;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.footer-list {
+  align-items: center;
+}
+
+.site-footer-list {
+  list-style: none;
+  margin-top: 15px;
+  margin-left: 115px;
+}
+
+.list-active {
+  margin-bottom: 47px;
+}
